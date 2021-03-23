@@ -37,5 +37,5 @@
   "url":"https://github.com/velara/TerrainLayer",
   "changelog":"https://raw.githubusercontent.com/velara/TerrainLayer/main/README.md",
 	"download": "https://github.com/velara/TerrainLayer/archive/1.0.9.zip",
-	"manifest": "https://github.com/velara/TerrainLayer/releases/latest/download/module.json"
+	"manifest": "https://raw.githubusercontent.com/velara/TerrainLayer/master/module.json"
 }
